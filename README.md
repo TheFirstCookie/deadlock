@@ -57,7 +57,7 @@ This project includes a `Dockerfile` and `fly.toml`. Fly deploys Dockerfile apps
 
    ```powershell
    fly secrets set DISCORD_TOKEN="your-new-discord-token"
-   fly secrets set DISCORD_GUILD_ID="391706676685832195"
+   fly secrets set DISCORD_GUILD_ID="your-guild"
    ```
 
 5. Deploy:
