@@ -68,6 +68,10 @@ characters = [
 async def random_character(interaction: discord.Interaction):
     await interaction.response.send_message(random.choice(characters))
 
+@client.tree.command(name="test", description="Randomly chooses a character")
+async def random_character(interaction: discord.Interaction):
+    await interaction.response.send_message(random.choice(characters))
+
 
 @client.tree.command(name="random-from-vc", description="Assigns a random character to everyone in your VC")
 async def random_from_vc(interaction: discord.Interaction):
