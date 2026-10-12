@@ -60,7 +60,7 @@ characters = [
     'Kelvin', 'Lady Geist', 'Lash', 'McGinnis', 'Mina', 'Mirage', 'Mo & Krill',
     'Paige', 'Paradox', 'Pocket', 'Rem', 'Seven', 'Shiv', 'Silver', 'Sinclair',
     'Venator', 'Victor', 'Vindicta', 'Viscous', 'Vyper', 'Warden', 'Wraith',
-    'Yamato'
+    'Yamato', 'Baba', 'Solomon', 'Ratking', 'Deadman Danny', 'Violet', 'Nurse Harrow'
 ]
 
 
