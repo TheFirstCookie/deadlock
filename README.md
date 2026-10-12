@@ -22,7 +22,7 @@ A small Discord bot with slash commands for choosing a random character and assi
 
    ```env
    DISCORD_TOKEN=your-token
-   DISCORD_GUILD_ID=391706676685832195
+   DISCORD_GUILD_ID=your-guild
    ```
 
 5. Run the bot:
